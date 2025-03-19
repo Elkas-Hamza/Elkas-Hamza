@@ -1,4 +1,4 @@
-# ELKASMI-hamza
+# EL KASMI hamza
 💫 About Me:
 Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passion for building scalable and efficient web applications. I enjoy working with both frontend and backend technologies and continuously learning new skills.<br><br>
 🔹 Tech Stack: JavaScript | TypeScript | PHP | Python | MySQL<br>
