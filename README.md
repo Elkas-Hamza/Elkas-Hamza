@@ -4,7 +4,7 @@ Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passio
 🔹 Tech Stack: JavaScript | TypeScript | PHP | Python | MySQL<br>
 🔹 Frameworks & Tools: Laravel | React.js | Redux | Node.js | MySQL<br>
 🔹 Interests: Web development, DevOps, and AI<br>
-🔹 Currently Learning: Next.js, MongoSB,German, and advanced backend architecture<br><br>Feel free to explore my projects and connect! 🚀<br>
+🔹 Currently Learning: Next.js, MongoDB,German, and advanced backend architecture<br><br>Feel free to explore my projects and connect! 🚀<br>
 
 
 ## 🌐 Socials:
