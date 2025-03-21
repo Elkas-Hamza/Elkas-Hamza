@@ -48,9 +48,8 @@ Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passio
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
-![Hamza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Elkas-Hamza&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+![Hamza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Elkas-Hamza&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkas-Hamza&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkas-Hamza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
