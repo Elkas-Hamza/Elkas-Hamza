@@ -58,7 +58,7 @@ Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passio
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![Hamza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Elkas-Hamza&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only)<br/>
+![Hamza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Elkas-Hamza&include_all_commits=true&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkas-Hamza&theme=dark&include_all_commits=true&count_private=true)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
