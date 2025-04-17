@@ -1,14 +1,13 @@
-# EL KASMI hamza
+# EL KASMI Hamza
 💫 About Me:
-Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passion for building scalable and efficient web applications. I enjoy working with both frontend and backend technologies and continuously learning new skills.<br><br>
-🔹 Tech Stack: JavaScript | TypeScript | PHP | Python | MySQL<br>
-🔹 Frameworks & Tools: Laravel | React.js | Redux | Node.js | MySQL<br>
+Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passion for building scalable and efficient web applications. I enjoy working with both frontend and backend technologies and continuously learning new frameworks and tools to enhance my skillset.<br><br>
+🔹 Tech Stack: JavaScript | TypeScript | PHP | Python | Java | MySQL | MongoDB<br>
+🔹 Frameworks & Tools: Laravel | React.js | Redux | Node.js | Spring Boot | Next.js <br>
 🔹 Interests: Web development, DevOps, and AI<br>
- Currently Learning: Next.js, MongoDB,German, and advanced backend architecture<br><br>Feel free to explore my projects and connect! 🚀<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-el-kasmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Elkasmihamza05@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-el-kasmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:example@example.com)
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -19,9 +18,6 @@ Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passio
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
@@ -30,8 +26,9 @@ Hi there! 👋<br><br>I’m Hamza El Kasmi, a full-stack developer with a passio
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
